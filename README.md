@@ -1,6 +1,7 @@
 # Free AI Prompt Generator (No Sign Up)
 
 This repository hosts the documentation and examples for **[PromptRule.com](https://promptrule.com)**.
+<img width="2440" height="1388" alt="c8e369d573dfe6e5193294a7306111bf" src="https://github.com/user-attachments/assets/5f1847ef-00dc-40ec-9f84-28004625b474" />
 
 We built this tool because we were tired of "free" tools that force you to create an account just to copy a text snippet.
 
@@ -46,5 +47,4 @@ The site is supported by standard Google Ads. This allows us to keep the tool op
 -   **Website**: [https://promptrule.com](https://promptrule.com)
 -   **License**: MIT (for the JSON data in this repo)
 
----
-*Keywords: free prompt generator, no sign up, no login, chatgpt prompt builder, midjourney prompt generator, ai prompt engineering tool.*
+
